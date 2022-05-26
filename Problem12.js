@@ -18,4 +18,4 @@ function countPal(min, max){
 
 // Driver program to test above function
 let n = parseInt(prompt("Enter a positive number"))
-console.log(countPal(0,n));
+countPal(0,n);
